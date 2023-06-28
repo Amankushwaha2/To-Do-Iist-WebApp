@@ -10,7 +10,6 @@ This is a simple web application that allows you to manage your to-do list. You 
 
 - **Delete tasks**: If you no longer need a task, you can delete it from the list by clicking on the delete button (represented by a trash can icon) next to the task.
 
-- **Persistence**: The application uses the browser's local storage to persist the tasks. This means that even if you close the application or refresh the page, your tasks will still be saved and loaded when you reopen the application.
 
 ## Usage
 
